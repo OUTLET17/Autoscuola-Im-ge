@@ -233,14 +233,3 @@ body {
 .role    {
     color: rgb(68, 67, 67); 
 }
-@media (max-width: 600px) {
-    body {
-        background-color: #ffffff; 
-    }
-    header {
-        padding: 15px 0; 
-    }
-    main {
-        padding: 15px; 
-    }
-}
